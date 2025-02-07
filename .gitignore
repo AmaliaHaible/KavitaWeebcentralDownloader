@@ -1,0 +1,12 @@
+\__pycache__
+\build
+\dist
+\download
+debug.html
+debug2.html
+discord.txt
+log.log
+main.spec
+manga.txt
+*.exe
+seen.txt
